@@ -18,15 +18,25 @@ As a passionate coder, I want to improve my skills and knowledge by dedicating t
 The repository is organized as follows:
 
 365DaysOfCoding/
+
 ├── day001/
+
 │   └── code.py
+
 ├── day002/
+
 │   └── app.js
+
 ├── day003/
+
 │   └── index.html
+
 ├── ...
+
 ├── day365/
+
 │   └── readme.md
+
 └── readme.md
  
  and so on and so forth.
