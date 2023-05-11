@@ -39,7 +39,7 @@ The repository is organized as follows:
 
 └── readme.md
  
- and so on and so forth.
+so on and so forth.
  
  
 - Each day's code is stored in a separate directory, named `day001`, `day002`, etc., representing the day of the challenge.
@@ -48,7 +48,7 @@ The repository is organized as follows:
 - The root `readme.md` file contains an overview of the challenge, goals, and motivation.
 
 ## Progress
-I will update the progress of my coding challenge in the `readme.md` file of each day's directory. I will also document my achievements, learnings, and any other relevant information.
+I will update the progress of my coding challenge in the `repository`. I will also document my achievements, learnings, and any other relevant information.
 
 ## Contribution
 As an open-source repository, contributions from the community are welcome. If you have any suggestions, improvements, or fixes, feel free to open an issue or submit a pull request.
